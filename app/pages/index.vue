@@ -1,7 +1,7 @@
 <template>
   <div>
-   <h5>Welcome to My Nuxt  App</h5> 
-   <v-btn>Submit</v-btn>
+   <h1>Welcome to My Nuxt  App BOYYYYYY</h1> 
+   <v-btn color="red"> Submit</v-btn>
   </div>
 </template>
 
